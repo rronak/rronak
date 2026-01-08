@@ -34,9 +34,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
-
-<br>
-
+<br><br>
 <b>Data Science & ML:</b> &nbsp;
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -62,10 +60,7 @@
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
   <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="matplotlib" width="40" height="40"/>
 </a>
-
-
-<br>
-
+<br><br>
 <b>Web Technologies:</b> &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -82,9 +77,7 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </a>
-
-<br>
-
+<br><br>
 <b>DevOps & Tools:</b> &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
