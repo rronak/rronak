@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronak</h1>
 <h3 align="center">Passionate about Data and Design</h3>
 
-- 🔭 I’m currently working on **F1 model and analysis**
+- 🔭 I’m currently working on **Premier League Prediction Model**
 
 - 🌱 I’m currently learning **Machine Learning**
 
